@@ -1,0 +1,1 @@
+# Ansys_Static_CloseGripHandle
